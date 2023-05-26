@@ -11,6 +11,7 @@
 		33AF8BF12A20A81E004987A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33AF8BF02A20A81E004987A6 /* ContentView.swift */; };
 		33AF8BF32A20A81E004987A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33AF8BF22A20A81E004987A6 /* Assets.xcassets */; };
 		33AF8BF62A20A81E004987A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33AF8BF52A20A81E004987A6 /* Preview Assets.xcassets */; };
+		F787B09F2A20B66500AEC2CF /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F787B09E2A20B66500AEC2CF /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		33AF8BF02A20A81E004987A6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		33AF8BF22A20A81E004987A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		33AF8BF52A20A81E004987A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F787B09E2A20B66500AEC2CF /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				33AF8BEE2A20A81E004987A6 /* exerciseGITApp.swift */,
 				33AF8BF02A20A81E004987A6 /* ContentView.swift */,
+				F787B09E2A20B66500AEC2CF /* DetailView.swift */,
 				33AF8BF22A20A81E004987A6 /* Assets.xcassets */,
 				33AF8BF42A20A81E004987A6 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				33AF8BF12A20A81E004987A6 /* ContentView.swift in Sources */,
+				F787B09F2A20B66500AEC2CF /* DetailView.swift in Sources */,
 				33AF8BEF2A20A81E004987A6 /* exerciseGITApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
